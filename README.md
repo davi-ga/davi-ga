@@ -21,7 +21,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davi-ga&theme=great-gatsby&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
